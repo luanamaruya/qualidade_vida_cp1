@@ -16,7 +16,7 @@ undeployClosure.resolveStrategy = Closure.DELEGATE_FIRST
 
 // Execute the following steps on the master
 node('main') {
-   git url: 'https://github.com/jenkinsbyexample/workflow-plugin-pipeline-demo.git'
+   git url: 'https://github.com/luanamaruya/qualidade_vida_cp2'
    devQAStaging()
 }
 
