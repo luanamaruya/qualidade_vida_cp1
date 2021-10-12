@@ -1,6 +1,6 @@
 node{
 
-   def tomcatWeb = 'opt\tomcat\webapps'
+   def tomcatWeb = 'opt\tomcat webapps'
    def tomcatBin = 'opt\tomcat\bin'
    def tomcatStatus = ''
   
