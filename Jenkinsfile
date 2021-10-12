@@ -5,7 +5,7 @@ node{
    def tomcatStatus = ''
   
    stage('SCM Checkout'){
-     git 'https://github.com/luanamaruya/qualidade_vida_cp2.git'
+     git 'https://github.com/luanamaruya/qualidade_vida_cp2'
    }
    stage('Compile-Package-create-war-file'){
       // Get maven home path
