@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+body {
+padding: 0;
+margin: 0;
+vertical-align: baseline;
+list-style: none;
+border: 0;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: blue;
+
+}
+
+div {
+    margin-bottom: 20px;
+}
